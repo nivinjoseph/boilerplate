@@ -1,6 +1,6 @@
-function run(): void
+function foo(): void
 {
     console.log("I am running");
 }
 
-run();
+foo();
